@@ -1,2 +1,3 @@
 # asmademo
-This is my first get repo
+This is my first get repository
+Author - Asma 
